@@ -1,2 +1,2 @@
 cd files
-python TempGen.py
+python3 TempGen.py
